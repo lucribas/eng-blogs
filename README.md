@@ -24,7 +24,7 @@
 
 [Microsoft](https://www.microsoft.com/en-us/research/)
 
-[Mozilla] (https://hacks.mozilla.org/)
+[Mozilla](https://hacks.mozilla.org/)
 
 [Netflix](http://techblog.netflix.com/)
 

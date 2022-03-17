@@ -27,6 +27,7 @@ Knowledge is all about sharing. Do you have an engineering blog that you’d lik
 | [Microsoft](https://www.microsoft.com/en-us/research/) | [Azure](https://azure.microsoft.com/en-us/blog/) |  |
 | [MLM](https://machinelearningmastery.com/blog/) |  |
 | [Mozilla](https://hacks.mozilla.org/) |  |
+| [Nvidia](https://developer.nvidia.com/blog/) |  |
 | [Netflix](http://techblog.netflix.com/) |  |
 | [PayPal](https://www.paypal-engineering.com/) |  |
 | [Pinterest](https://engineering.pinterest.com/) | [Pinterest@medium](https://medium.com/@Pinterest_Engineering) |

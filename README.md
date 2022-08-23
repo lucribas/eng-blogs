@@ -20,7 +20,7 @@ Knowledge is all about sharing. Do you have an engineering blog that you’d lik
 | [GitHub](https://github.blog/category/engineering/) |  |
 | [Google](https://developers.googleblog.com/) | [Google AI](https://ai.googleblog.com/) |
 | [Heroku](https://blog.heroku.com/engineering) |  |
-| [Instagram](https://instagram-engineering.com/) |  |
+| [Instagram](https://engineering.fb.com/tag/instagram/) | [old](https://instagram-engineering.com/) |
 | [LinkedIn](https://engineering.linkedin.com/blog) |  |
 | [Lyft](https://eng.lyft.com/) |  |
 | [Medium](https://medium.engineering/) |  |
@@ -44,3 +44,5 @@ Knowledge is all about sharing. Do you have an engineering blog that you’d lik
 | [Walmart](http://www.walmartlabs.com/) |  |
 | [Yelp](https://engineeringblog.yelp.com/) |  |
 
+https://medium.com/ninjavan-tech
+https://tech.ninjavan.co/experience

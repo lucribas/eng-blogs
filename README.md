@@ -7,7 +7,7 @@ Knowledge is all about sharing. Do you have an engineering blog that you’d lik
 | blog  | related  |
 |---|---|
 | [Airbnb](http://airbnb.io/)  | [Airbnb@medium](https://medium.com/airbnb-engineering) |
-| [Amazon](https://aws.amazon.com/blogs/) | [allthingsdistributed](https://www.allthingsdistributed.com/) |  |
+| [Amazon](https://aws.amazon.com/blogs/) | [allthingsdistributed](https://www.allthingsdistributed.com/)  [amazon science](https://www.amazon.science/) |  |
 | [Badoo](https://techblog.badoo.com/) |  |
 | [BBC](https://medium.com/bbc-design-engineering) |  |
 | [BuzzFeed](https://tech.buzzfeed.com/) |  |

@@ -18,7 +18,7 @@ Knowledge is all about sharing. Do you have an engineering blog that you’d lik
 | [Ebay](https://tech.ebayinc.com/) |  |
 | [Facebook](https://engineering.fb.com/) |  |
 | [GitHub](https://github.blog/category/engineering/) |  |
-| [Google Devs](https://developers.googleblog.com/) | [Google AI](https://ai.googleblog.com/) | [Google Research](https://blog.research.google/) |
+| [Google Devs](https://developers.googleblog.com/) | [Google AI](https://ai.googleblog.com/), [Google Research](https://blog.research.google/) |
 | [Heroku](https://blog.heroku.com/engineering) |  |
 | [Instagram](https://engineering.fb.com/tag/instagram/) | [old](https://instagram-engineering.com/) |
 | [LinkedIn](https://engineering.linkedin.com/blog) |  |
